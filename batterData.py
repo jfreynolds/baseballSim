@@ -2,7 +2,7 @@
 				#~ oswing:, zswing:, swing:, ocontact:,
 				#~ zcontact:, contact:, zone:, fstrike:,
 				#~ swingstrike:, doubles:, triples:, homeruns:
-                #~ flyball:, homerun/flyball}
+                		#~ flyball:, homerun/flyball}
 
 #2009 NYY
 jorge_posada = ('Jorge','Posada',328,193,660,410,509,894,797,465,580,83,25,0,22,376,156)
